@@ -1,0 +1,29 @@
+#line1 img {
+  width: 30%;
+  margin: 1.66%;
+  float: left;
+}
+#line2 img {
+  width: 22%;
+  margin: 1.5%;
+  float: left;
+}
+#line3 img {
+  width: 17%;
+  margin: 1.5%;
+  float: left;
+}
+.clearfix {
+  clear: both;
+}
+
+p {
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 1.66%;
+  border-bottom: 20px solid forestgreen;
+  width: 33%;
+  padding-bottom: 15px;
+}
